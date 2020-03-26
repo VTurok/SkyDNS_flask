@@ -49,7 +49,7 @@ def log_msg_creator(req_stamp, method, path, err_msg=False, err_type=None, param
 
     if param_lst:
         for item in param_lst:
-            msg_param += f'{item[0]}\n'
+            msg_param += f'{item[0]}={item[1]}\n'
 
     if err_msg:
         msg_err = f'Type error:{err_type}\n'
