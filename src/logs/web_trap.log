@@ -1,0 +1,391 @@
+[2020-03-27 00:32:44,642]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 00:32:49,782]-[Status:INFO]
+[start_msg]
+Request stamp:DELETE_96493f85e6_2020-03-27 00:32:49.782805
+Method:DELETE
+Path:ap
+Params:
+
+[end_msg]
+
+
+[2020-03-27 00:32:49,783]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_96493f85e6_2020-03-27 00:32:49.782805
+Method:DELETE
+Path:ap
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 00:32:49,783]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_96493f85e6_2020-03-27 00:32:49.782805
+Method:DELETE
+Path:ap
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 00:32:50,683]-[Status:INFO]
+[start_msg]
+Request stamp:DELETE_fbbd4fd1cf_2020-03-27 00:32:50.683586
+Method:DELETE
+Path:ap
+Params:
+
+[end_msg]
+
+
+[2020-03-27 00:32:50,684]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_fbbd4fd1cf_2020-03-27 00:32:50.683586
+Method:DELETE
+Path:ap
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 00:32:50,684]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_fbbd4fd1cf_2020-03-27 00:32:50.683586
+Method:DELETE
+Path:ap
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 01:24:54,080]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 01:31:08,234]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 02:10:57,946]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 02:11:05,513]-[Status:INFO]
+[start_msg]
+Request stamp:GET_72e00cf482_2020-03-27 02:11:05.512738
+Method:GET
+Path:api
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:05,977]-[Status:INFO]
+[start_msg]
+Request stamp:GET_30b7421647_2020-03-27 02:11:05.977409
+Method:GET
+Path:api
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:08,353]-[Status:INFO]
+[start_msg]
+Request stamp:GET_573df61c3e_2020-03-27 02:11:08.353305
+Method:GET
+Path:api
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,349]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 02:11:17,354]-[Status:INFO]
+[start_msg]
+Request stamp:GET_23105b721b_2020-03-27 02:11:17.354689
+Method:GET
+Path:fgh
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,355]-[Status:ERROR]
+[start_msg]
+Request stamp:GET_23105b721b_2020-03-27 02:11:17.354689
+Method:GET
+Path:fgh
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,359]-[Status:INFO]
+[start_msg]
+Request stamp:POST_e4bf9d34ae_2020-03-27 02:11:17.359649
+Method:POST
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,359]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_e4bf9d34ae_2020-03-27 02:11:17.359649
+Method:POST
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,359]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_e4bf9d34ae_2020-03-27 02:11:17.359649
+Method:POST
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,362]-[Status:INFO]
+[start_msg]
+Request stamp:DELETE_bee5179ed2_2020-03-27 02:11:17.362625
+Method:DELETE
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,362]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_bee5179ed2_2020-03-27 02:11:17.362625
+Method:DELETE
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:17,362]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_bee5179ed2_2020-03-27 02:11:17.362625
+Method:DELETE
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,460]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 02:11:19,466]-[Status:INFO]
+[start_msg]
+Request stamp:GET_dc3df86a3b_2020-03-27 02:11:19.466420
+Method:GET
+Path:fgh
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,466]-[Status:ERROR]
+[start_msg]
+Request stamp:GET_dc3df86a3b_2020-03-27 02:11:19.466420
+Method:GET
+Path:fgh
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,471]-[Status:INFO]
+[start_msg]
+Request stamp:POST_2ab88edc35_2020-03-27 02:11:19.471378
+Method:POST
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,471]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_2ab88edc35_2020-03-27 02:11:19.471378
+Method:POST
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,471]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_2ab88edc35_2020-03-27 02:11:19.471378
+Method:POST
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,474]-[Status:INFO]
+[start_msg]
+Request stamp:DELETE_bbadd4cfb9_2020-03-27 02:11:19.474356
+Method:DELETE
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,474]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_bbadd4cfb9_2020-03-27 02:11:19.474356
+Method:DELETE
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:19,474]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_bbadd4cfb9_2020-03-27 02:11:19.474356
+Method:DELETE
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,186]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 02:11:22,192]-[Status:INFO]
+[start_msg]
+Request stamp:GET_7db830aef0_2020-03-27 02:11:22.192159
+Method:GET
+Path:fgh
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,192]-[Status:ERROR]
+[start_msg]
+Request stamp:GET_7db830aef0_2020-03-27 02:11:22.192159
+Method:GET
+Path:fgh
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,197]-[Status:INFO]
+[start_msg]
+Request stamp:POST_0eb2b20f4d_2020-03-27 02:11:22.197143
+Method:POST
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,197]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_0eb2b20f4d_2020-03-27 02:11:22.197143
+Method:POST
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,197]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_0eb2b20f4d_2020-03-27 02:11:22.197143
+Method:POST
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,200]-[Status:INFO]
+[start_msg]
+Request stamp:DELETE_958bc96f70_2020-03-27 02:11:22.200119
+Method:DELETE
+Path:nfg
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,200]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_958bc96f70_2020-03-27 02:11:22.200119
+Method:DELETE
+Path:nfg
+Type error:Method error
+Params:
+
+[end_msg]
+
+
+[2020-03-27 02:11:22,200]-[Status:ERROR]
+[start_msg]
+Request stamp:DELETE_958bc96f70_2020-03-27 02:11:22.200119
+Method:DELETE
+Path:nfg
+Type error:Path error
+Params:
+
+[end_msg]
+
+

@@ -1,0 +1,43 @@
+[2020-03-27 01:43:55,673]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 01:44:34,745]-[Status:INFO]
+[start_msg]
+Server start ...
+[end_msg]
+
+
+[2020-03-27 01:44:34,751]-[Status:INFO]
+[start_msg]
+Request stamp:GET_686c7d3b07_2020-03-27 01:44:34.751261
+Method:GET
+Path:api
+Params:
+
+[end_msg]
+
+
+[2020-03-27 01:44:34,755]-[Status:INFO]
+[start_msg]
+Request stamp:POST_8eaf8179ba_2020-03-27 01:44:34.755724
+Method:POST
+Path:api
+Params:
+
+[end_msg]
+
+
+[2020-03-27 01:44:34,756]-[Status:ERROR]
+[start_msg]
+Request stamp:POST_8eaf8179ba_2020-03-27 01:44:34.755724
+Method:POST
+Path:api
+Type error:Method error
+Params:
+
+[end_msg]
+
+
